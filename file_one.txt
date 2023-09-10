@@ -1,1 +1,2 @@
 actividad
+realizacion de un repo en git para la comprencion de su funcionalidad
